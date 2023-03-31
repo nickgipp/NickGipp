@@ -1,7 +1,7 @@
 
 
 # <div align="center">Frontend Developer</div>  
-<div align="center"><img style="margin: 10px" src="https://github.com/nickgipp/NickGipp/blob/main/StaticW.gif" alt="JavaScript" height="300" /> </div>  
+<div align="center"><img style="margin: 10px" src="https://github.com/nickgipp/NickGipp/blob/main/StaticB.gif" alt="JavaScript" height="300" /> </div>  
 
 <br/>  
 <div align="center">💻 Tech main stack:</div>  
