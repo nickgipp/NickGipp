@@ -50,12 +50,12 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 
 </div>
-<br/>  
-<br/>  
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=nickgipp&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ---
+![](https://github-readme-stats.vercel.app/api?username=nickgipp&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  
 [![](https://visitcount.itsvg.in/api?id=nickgipp&icon=5&color=0)](https://visitcount.itsvg.in)
   
 </div>
